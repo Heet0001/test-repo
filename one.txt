@@ -1,3 +1,8 @@
 first file
 
 adding another line to the text file 
+
+
+git remote -v  : for fetching and adding the new changes in the repo 
+
+git clone <add the link of the github repo to add the files in the path described from the github>
